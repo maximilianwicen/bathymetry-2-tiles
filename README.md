@@ -1,5 +1,5 @@
 # bathymetry-2-tiles
-Small project to create tiles from int16 bathymetry data
+Small project to create tiles from bathymetry data that is not uint8. For uint8 data use GDAL2Tiles?
 
 requirements:
 pip install rasterio
